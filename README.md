@@ -1,3 +1,6 @@
+![](https://i.imgur.com/mmxCF19.png)
+
+
 # Terra
 ---
 A powerful Discord multi-purpose bot with rich features allowing chatting and fun commands to entertain your whole server
