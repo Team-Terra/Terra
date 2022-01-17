@@ -5,7 +5,7 @@
 ---
 A powerful Discord multi-purpose bot with rich features allowing chatting and fun commands to entertain your whole server
 ## Getting started with Terra
-Click [here](https://discord.com/api/oauth2/authorize?client_id=909152718973698078&permissions=1642758929655&redirect_uri=https%3A%2F%2Flinktr.ee%2Fterra.ai&response_type=code&scope=bot%20guilds.join) to invite Terra to your server.
+Click [here](https://discord.com/api/oauth2/authorize?client_id=909152718973698078&permissions=1642758929655&redirect_uri=https%3A%2F%2Fsouptech.xyz%2Fterra%2F&response_type=code&scope=bot%20guilds.join) to invite Terra to your server.
 
 The default prefix of the bot is `.`, but the prefix can easily be changed with `!prefix <prefix>` command.
 
